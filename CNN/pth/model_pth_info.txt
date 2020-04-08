@@ -1,0 +1,1 @@
+model_AlexNet_dataset_2018_image_800_epoch_20_lr_0.00034_train_loss_0.025495_precision_0.96750_recall_0.91274_f1_0.93932_val_accuracy_0.93711_time_1215_20-24-32
